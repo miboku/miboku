@@ -1,1 +1,2 @@
 # miboku
+print("Hello world")
